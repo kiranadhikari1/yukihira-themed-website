@@ -1,0 +1,115 @@
+body{
+    background-color: cornsilk;
+    background:transparent url(background.png);
+}
+.select{
+    color: black;
+    font-family: cursive;
+}
+
+.dropdown{
+    color: burlywood;
+    font-family: cursive;
+}
+
+.className{
+    color: black;
+    font-family: cursive;
+}
+
+.classCategory{
+    width: 10%;
+    text-align: left;
+    color: black;
+    border-style: double;
+    border-bottom: 0ch;
+    border-right: 0ch;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-right-color: white;
+    border-left-color:white;
+    height: 100%;
+    padding: 10px;
+    box-shadow: 3px 3px 3px 3px;
+}
+
+.classMenu{
+    width: 98%;
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    border-style: double;
+    border-top-color: none;
+    border-bottom-color: white;
+    border-right-color: white;
+    border-left-color:white;
+    padding: 10px;
+    box-shadow: 3px 3px 3px 3px;
+}
+
+.orderDetails{
+    text-align: right;
+    color: black;
+    font-family: cursive;
+    /* border-top-color: rgb(59, 35, 35);
+    border-bottom-color: rgb(59, 35, 35);
+    border-right-color: rgb(59, 35, 35);
+    border-left-color: rgb(59, 35, 35);
+    box-shadow: 3px 3px 3px 3px; */
+}
+
+.leftsideinfo{
+    color: black;
+    font-family: cursive;
+    border-style: double;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-right-color: white;
+    border-left-color:white;
+    width: 10%;
+    padding: 10px;
+    box-shadow: 3px 3px 3px 3px;
+}
+
+.add-button{
+    background-attachment: inherit;
+    background-image:url(add.png);
+    background-size: 20px;
+    width: 25px;
+    height: 25px;
+    border-top-color: cornsilk;
+    border-bottom-color: cornsilk;
+    border-right-color: cornsilk;
+    border-left-color:cornsilk;
+}
+
+.remove-button{
+    background-attachment: inherit;
+    background-image: url(remove.png);
+    background-size: 20px;
+    width: 25px;
+    height: 25px;
+}
+
+.cat-cat{
+    color: black;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.description-description{
+    font-size: large;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.submitorder{
+    text-align: right;
+}
+
+div.mascot{
+    content: url(soma.png);
+    border-radius: 50%;
+    width: 5%;
+}
