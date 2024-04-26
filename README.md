@@ -1,5 +1,4 @@
-# yukihira-themed-website
-Simple website made using Javascript + CSS
+https://yukihiradiner.netlify.app/
 
 Author: Kiran Adhikari
 
